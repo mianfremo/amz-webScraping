@@ -10,7 +10,7 @@
 </head>
 <body>
 	<nav class="navbar navbar-dark" style="background-color: #232f3e;">
-  		<a class="navbar-brand" href="#">Comprando</a>
+  		<a class="navbar-brand" href="#">Web Scraping</a>
   		<form class="form-inline" target="_self" action="javascript:buscar();" method="get">
 		    <input id="inputBusqueda" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
 		    <button class="btn my-2 my-sm-0" type="submit" style="background-color: #febd69;">Search</button>
